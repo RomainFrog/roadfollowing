@@ -11,6 +11,6 @@ Based on jetracer : https://github.com/NVIDIA-AI-IOT/jetracer
 git submodule update --init --recursive
 ```
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7078111828723027969" height="836" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+Live demo: https://www.linkedin.com/posts/tom-poulenard-13394b229_deeplearning-research-project-activity-7078112264280535041-Pe4e?utm_source=share&utm_medium=member_desktop
 
 
