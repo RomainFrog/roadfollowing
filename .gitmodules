@@ -1,0 +1,12 @@
+[submodule "jetcam"]
+	path = jetcam
+	url = https://github.com/NVIDIA-AI-IOT/jetcam
+[submodule "torch2trt"]
+	path = torch2trt
+	url = https://github.com/NVIDIA-AI-IOT/torch2trt
+[submodule "jetracer"]
+	path = jetracer
+	url = https://github.com/NVIDIA-AI-IOT/jetracer
+[submodule "jupyter_clickable_image_widget"]
+	path = jupyter_clickable_image_widget
+	url = https://github.com/jaybdub/jupyter_clickable_image_widget
